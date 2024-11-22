@@ -1,6 +1,6 @@
-# SALES REPORT ANALYSIS USING POWEER BI #
+# POWEER BI-PROJECTS #
 ## Overview ##
-This repository contains Power bi sales report designed to provide meaningful insights into sales data, helping business make data driven decisions. The report visualize key performance indicators(KPIs) such as total revenue , profit margin, sales trends, specific product performance and monthly trend analysis.
+This repository contains Power bi project folders designed to provide meaningful insights into the data collected and projects completed
 
 ## Features ##
 
@@ -9,20 +9,9 @@ Drill-down capabilities for exploring detailed insights.
 #### Visualizations: ####
 Charts, tables and other graphical representations for easy data representations.
 #### KPIs: ####
-Key metrics such as overall revenue, sales of products, sales growth trends.
+Key metrics included based on the datas
 #### Data Filtering: ####
-Product category wise filters for analysis.
-
-## File structure ##
-
-#### raw_data ####
-Contains the sample data downloaded from the kaggle website
-#### SALES REPORT DASHBOARD #### 
-The main power bi report file.
-#### README.md #### 
-Documentation for the repository
-#### dashboard screenshot.png ####
-preview image of the report and dashboards.
+All best suited filters are provided for analysis.
 
 ## Prerequisites ##
 
