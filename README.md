@@ -23,3 +23,14 @@ The main power bi report file.
 Documentation for the repository
 #### dashboard screenshot.png ####
 preview image of the report and dashboards.
+
+## Prerequisites ##
+
+  Power BI Desktop (latest version)
+  Basic understanding of Power BI and data analysis
+
+## Contribution ##
+
+Contributions are welcome! If you'd like to improve the report or add features:
+  Make your changes and test them thoroughly.
+  Submit a pull request for review.
